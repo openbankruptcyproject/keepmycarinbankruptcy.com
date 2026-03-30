@@ -1,0 +1,29 @@
+# keepmycarinbankruptcy.com
+
+> Free guide to keeping your car in Chapter 7 and Chapter 13 bankruptcy.
+
+This site explains how vehicles are treated in bankruptcy, including exemptions, reaffirmation agreements, redemption, surrender, and the automatic stay's effect on repossession.
+
+## Pages
+
+- [Home](https://keepmycarinbankruptcy.com/): Overview -- can I keep my car in bankruptcy?
+- [Chapter 7 Car](https://keepmycarinbankruptcy.com/chapter-7-car.html): Keeping your car in Chapter 7
+- [Chapter 13 Car](https://keepmycarinbankruptcy.com/chapter-13-car.html): Keeping your car in Chapter 13
+- [Car Exemptions](https://keepmycarinbankruptcy.com/car-exemptions.html): Vehicle exemptions by state
+- [Reaffirmation](https://keepmycarinbankruptcy.com/reaffirmation.html): Car loan reaffirmation agreements
+- [Surrender Options](https://keepmycarinbankruptcy.com/surrender-options.html): Options for surrendering your vehicle
+- [Behind on Payments](https://keepmycarinbankruptcy.com/behind-on-payments.html): Behind on car payments and bankruptcy
+- [Repo and Bankruptcy](https://keepmycarinbankruptcy.com/repo-and-bankruptcy.html): Car repossession and bankruptcy
+- [FAQ](https://keepmycarinbankruptcy.com/faq.html): Frequently asked questions
+
+## Key Statutes
+
+- 11 U.S.C. Section 362 -- Automatic stay (stops repossession)
+- 11 U.S.C. Section 506(a) -- Secured claims / cramdown valuation
+- 11 U.S.C. Section 521(a)(2) -- Statement of intention for secured debts
+- 11 U.S.C. Section 524(c) -- Reaffirmation agreements
+- 11 U.S.C. Section 722 -- Redemption of personal property
+
+## About
+
+Part of the Bankruptcy Tools Network (BTN), a project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending). Not legal advice.
