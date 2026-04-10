@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
+  <rect width="1200" height="630" fill="#0d1117"/>
+  <!-- Car silhouette accent -->
+  <g transform="translate(600,105)" fill="none" stroke="#58a6ff" stroke-width="2">
+    <path d="M-35,5 L-30,-10 L-15,-20 L15,-20 L30,-10 L35,5" />
+    <line x1="-40" y1="5" x2="40" y2="5"/>
+    <circle cx="-22" cy="12" r="7"/><circle cx="22" cy="12" r="7"/>
+    <line x1="-15" y1="5" x2="15" y2="5" stroke="#0d1117" stroke-width="3"/>
+    <circle cx="-22" cy="12" r="3" fill="#58a6ff"/><circle cx="22" cy="12" r="3" fill="#58a6ff"/>
+  </g>
+  <text x="600" y="230" text-anchor="middle" font-family="'Segoe UI',Arial,sans-serif" font-size="44" font-weight="bold" fill="#e6edf3">Keep My Car in Bankruptcy</text>
+  <text x="600" y="290" text-anchor="middle" font-family="'Segoe UI',Arial,sans-serif" font-size="26" fill="#58a6ff">Protecting Your Vehicle When You File</text>
+  <rect x="250" y="320" width="700" height="2" fill="#30363d"/>
+  <text x="600" y="380" text-anchor="middle" font-family="'Segoe UI',Arial,sans-serif" font-size="20" fill="#7d8590">Exemptions -- Reaffirmation -- Redemption -- Cramdown</text>
+  <text x="600" y="560" text-anchor="middle" font-family="'Segoe UI',Arial,sans-serif" font-size="16" fill="#484f58">Open Bankruptcy Project</text>
+  <text x="600" y="585" text-anchor="middle" font-family="'Segoe UI',Arial,sans-serif" font-size="14" fill="#484f58">keepmycarinbankruptcy.com</text>
+</svg>
